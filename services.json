@@ -1,0 +1,20 @@
+{
+  "ola-chaining": {
+      "url": "OLACHAINURL"
+  },
+  "hola-service": {
+    "url": "http://hola-helloworld-msa.192.168.99.100.nip.io/"
+  },
+  "bonjour-service": {
+    "url": "http://bonjour-helloworld-msa.192.168.99.100.nip.io/"
+  },
+  "aloha-service": {
+    "url": "http://aloha-helloworld-msa.192.168.99.100.nip.io/"
+  },
+  "ola-service": {
+    "url": "http://ola-helloworld-msa.192.168.99.100.nip.io/"
+  },
+  "api-gateway": {
+    "url": "http://api-gateway-helloworld-msa.192.168.99.100.nip.io/"
+  }
+}
